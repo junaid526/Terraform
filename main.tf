@@ -4,6 +4,6 @@ resource "aws_instance" "web" {
   key_name   = "junnu-1"
 
   tags = {
-    Name = "HelloWorld"
+    Name = "new"
   }
 }
